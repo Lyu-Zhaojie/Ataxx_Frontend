@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Background.png</file>
+        <file>MainMenu.qml</file>
+        <file>TextButton.qml</file>
+        <file>Game.qml</file>
+        <file>BlurRectangle.qml</file>
+        <file>About.qml</file>
+        <file>Tile.qml</file>
+        <file>Black.png</file>
+        <file>White.png</file>
+        <file>Switch.qml</file>
+    </qresource>
+</RCC>
