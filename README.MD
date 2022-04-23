@@ -10,6 +10,6 @@
 
 要求安装 Qt 5.15.2 SDK，以及 MSVC v143。其余版本未经过测试，可能无法编译。
 
-将`CMakeLists.txt`中的`Qt5_DIR`修改为你的电脑上的对应路径。
+将`CMakeLists.txt`中的`CMAKE_PREFIX_PATH`修改为你的电脑上的对应路径。
 
 接下来，CMake 大家都会吧（逃

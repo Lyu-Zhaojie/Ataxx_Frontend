@@ -11,7 +11,7 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-set(Qt5_DIR "D:/Softwares/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5")
+set(CMAKE_PREFIX_PATH "D:/Softwares/Tools/Qt/5.15.2/msvc2019_64")
 
 find_package(Qt5 COMPONENTS Core Quick REQUIRED)
 
