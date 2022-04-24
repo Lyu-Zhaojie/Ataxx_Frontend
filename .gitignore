@@ -1,2 +1,4 @@
 build/
+.vscode/
 deploy.bat
+compile_commands.json

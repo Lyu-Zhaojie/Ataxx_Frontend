@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.14)
+cmake_minimum_required(VERSION 3.20)
 
-project(Ataxx_Frontend LANGUAGES CXX)
+project(Ataxx_Frontend VERSION 2.0 LANGUAGES CXX)
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 

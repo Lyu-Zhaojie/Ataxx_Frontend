@@ -1,7 +1,7 @@
 #ifndef GAME_DATA_H
 #define GAME_DATA_H
 #include "TileData.h"
-// #include <QObject>
+#include <QObject>
 #include <fstream>
 class GameData : public QObject
 {
